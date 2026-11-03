@@ -1,0 +1,5 @@
+.env
+__pycache__/
+procurement.db
+venv/
+.DS_Store
